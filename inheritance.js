@@ -18,6 +18,8 @@ console.log(student1)
 
 console.log(student1.location())
 
+// hi
+
 console.log(student1.fullName())
 
 
