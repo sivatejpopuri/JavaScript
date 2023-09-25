@@ -22,3 +22,5 @@ let shiva= new Person('shiva', 'chiru', 25, 'M')
 //console.log(shiva.age)
 //console.log(shiva.fullName())
 //console.log(shiva.location())
+
+// 2nd update
